@@ -1,12 +1,12 @@
 Summary:	Provides throughput and sometimes progress on shell pipes
 Summary(pl):	Pokazywanie szybko¶ci przesy³ania i czasem postêpu dla potoków
 Name:		pipemeter
-Version:	0.9.2
+Version:	0.9.3
 Release:	1
 License:	GPL
 Group:		Applications/System
 Source0:	http://spamaps.org/files/pipemeter/%{name}-%{version}.tar.gz
-# Source0-md5:	e557da9897d2d206da7dd844d3e07acd
+# Source0-md5:	d7cb23dce8c75fdfe85e609873b12d9c
 URL:		http://spamaps.org/pipemeter.php
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
