@@ -1,5 +1,5 @@
 Summary:	Provides throughput and sometimes progress on shell pipes
-Summary(pl):	Pokazywanie szybko∂ci przesy≥ania i czasem postÍpu dla potokÛw
+Summary(pl.UTF-8):   Pokazywanie szybko≈õci przesy≈Çania i czasem postƒôpu dla potok√≥w
 Name:		pipemeter
 Version:	1.1.2
 Release:	1
@@ -14,9 +14,9 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 This program can be used in a shell pipe to display speed and progress
 (if size of stream is available).
 
-%description -l pl
-Ten program moøe byÊ uøywany w potoku do wy∂wietlania szybko∂ci i
-postÍpu przesy≥ania danych (je∂li rozmiar strumienia jest znany).
+%description -l pl.UTF-8
+Ten program mo≈ºe byƒá u≈ºywany w potoku do wy≈õwietlania szybko≈õci i
+postƒôpu przesy≈Çania danych (je≈õli rozmiar strumienia jest znany).
 
 %prep
 %setup -q
