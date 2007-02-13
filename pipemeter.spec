@@ -1,5 +1,5 @@
 Summary:	Provides throughput and sometimes progress on shell pipes
-Summary(pl.UTF-8):   Pokazywanie szybkości przesyłania i czasem postępu dla potoków
+Summary(pl.UTF-8):	Pokazywanie szybkości przesyłania i czasem postępu dla potoków
 Name:		pipemeter
 Version:	1.1.2
 Release:	1
